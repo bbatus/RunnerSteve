@@ -1,4 +1,4 @@
-# Rocket Steve on Air!
+# Runner Steve is fastest!
 
 Hypercasual Runner Unity Project!
 
@@ -20,7 +20,7 @@ Hypercasual Runner Unity Project!
 4. Enums
 
 
-![Ekran Görüntüsü 1](https://github.com/bbatus/RocketSteve/blob/master/Images/1.png)
-![Ekran Görüntüsü 2](https://github.com/bbatus/RocketSteve/blob/master/Images/2.png)
-
-
+![Ekran Görüntüsü 1](https://github.com/bbatus/RunnerSteve/blob/master/Runner/1.png)
+![Ekran Görüntüsü 2](https://github.com/bbatus/RunnerSteve/blob/master/Runner/2.png)
+![Ekran Görüntüsü 3](https://github.com/bbatus/RunnerSteve/blob/master/Runner/3.png)
+![Ekran Görüntüsü 4](https://github.com/bbatus/RunnerSteve/blob/master/Runner/4.png)
